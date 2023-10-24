@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.aworkconnect.urgento_customerapp"
+    name: "Urgento"
+  ios:
+    id: "com.aworkconnect.urgentocustomerapp"
+    name: "Urgento"

@@ -1,0 +1,479 @@
+{
+  "project_info": {
+    "project_number": "698309544657",
+    "firebase_url": "https://website-cba9d-default-rtdb.firebaseio.com",
+    "project_id": "website-cba9d",
+    "storage_bucket": "website-cba9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698309544657:android:17528c07f4b67e9b18d3f0",
+        "android_client_info": {
+          "package_name": "com.aworkconnect.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698309544657-54eb124lqg9iret4uurbhenke6p00ajk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aworkconnect.android",
+            "certificate_hash": "0877985104bde9b94600e63cf35f57558aa397e5"
+          }
+        },
+        {
+          "client_id": "698309544657-suv6p86u3lrn263a1oo5ijeh3f20aan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK40_5eprlWiChJSqaodXy8BfBJom0DFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698309544657-e6ad1f62f8s0gnipb0n8c6hvl022pr0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698309544657-655714j8tk744ui0b5hi1mn2k3e6knoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aworkconnect.urgentocustomerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698309544657:android:89bcd3f1c9a994ef18d3f0",
+        "android_client_info": {
+          "package_name": "com.aworkconnect.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698309544657-klae7rq72151ih9ch3dg2kb41lgibjdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aworkconnect.customer",
+            "certificate_hash": "073b9291bc9f89959caf4ce686944814e89c110a"
+          }
+        },
+        {
+          "client_id": "698309544657-suv6p86u3lrn263a1oo5ijeh3f20aan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK40_5eprlWiChJSqaodXy8BfBJom0DFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698309544657-e6ad1f62f8s0gnipb0n8c6hvl022pr0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698309544657-655714j8tk744ui0b5hi1mn2k3e6knoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aworkconnect.urgentocustomerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698309544657:android:d9c51721b4ed59dc18d3f0",
+        "android_client_info": {
+          "package_name": "com.aworkconnect.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698309544657-suv6p86u3lrn263a1oo5ijeh3f20aan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK40_5eprlWiChJSqaodXy8BfBJom0DFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698309544657-e6ad1f62f8s0gnipb0n8c6hvl022pr0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698309544657-655714j8tk744ui0b5hi1mn2k3e6knoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aworkconnect.urgentocustomerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698309544657:android:f772cfb6dc34e6c518d3f0",
+        "android_client_info": {
+          "package_name": "com.aworkconnect.emkaavaali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698309544657-suv6p86u3lrn263a1oo5ijeh3f20aan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK40_5eprlWiChJSqaodXy8BfBJom0DFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698309544657-e6ad1f62f8s0gnipb0n8c6hvl022pr0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698309544657-655714j8tk744ui0b5hi1mn2k3e6knoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aworkconnect.urgentocustomerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698309544657:android:14eeebb61c1e85e118d3f0",
+        "android_client_info": {
+          "package_name": "com.aworkconnect.thinnara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698309544657-jfi310kc3g9tg0uoheuk1fe1966qbmp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aworkconnect.thinnara",
+            "certificate_hash": "9d0dda1848b9a0ac72311ecf0e9a32f7ffb463d8"
+          }
+        },
+        {
+          "client_id": "698309544657-suv6p86u3lrn263a1oo5ijeh3f20aan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK40_5eprlWiChJSqaodXy8BfBJom0DFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698309544657-e6ad1f62f8s0gnipb0n8c6hvl022pr0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698309544657-655714j8tk744ui0b5hi1mn2k3e6knoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aworkconnect.urgentocustomerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698309544657:android:ebfd825e3db950fc18d3f0",
+        "android_client_info": {
+          "package_name": "com.aworkconnect.thinnaradeliverypartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698309544657-hnvobb4jv0a1lsr2tcaj401gtv23iqu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aworkconnect.thinnaradeliverypartner",
+            "certificate_hash": "b77532c6a0b18b5239c70a4016b19d45962dc56b"
+          }
+        },
+        {
+          "client_id": "698309544657-suv6p86u3lrn263a1oo5ijeh3f20aan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK40_5eprlWiChJSqaodXy8BfBJom0DFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698309544657-e6ad1f62f8s0gnipb0n8c6hvl022pr0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698309544657-655714j8tk744ui0b5hi1mn2k3e6knoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aworkconnect.urgentocustomerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698309544657:android:8e550db58b9c8f3018d3f0",
+        "android_client_info": {
+          "package_name": "com.aworkconnect.thinnaramanagerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698309544657-p88l52udbaaevh619l3atbniqjc1nbne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aworkconnect.thinnaramanagerapp",
+            "certificate_hash": "647cf4ea6ffc08fecd8773d249c9d93ed3fb4619"
+          }
+        },
+        {
+          "client_id": "698309544657-suv6p86u3lrn263a1oo5ijeh3f20aan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK40_5eprlWiChJSqaodXy8BfBJom0DFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698309544657-e6ad1f62f8s0gnipb0n8c6hvl022pr0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698309544657-655714j8tk744ui0b5hi1mn2k3e6knoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aworkconnect.urgentocustomerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698309544657:android:d35ee3cbb6d315c418d3f0",
+        "android_client_info": {
+          "package_name": "com.aworkconnect.urgento_Delivery_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698309544657-suv6p86u3lrn263a1oo5ijeh3f20aan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK40_5eprlWiChJSqaodXy8BfBJom0DFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698309544657-e6ad1f62f8s0gnipb0n8c6hvl022pr0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698309544657-655714j8tk744ui0b5hi1mn2k3e6knoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aworkconnect.urgentocustomerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698309544657:android:b66401318517928518d3f0",
+        "android_client_info": {
+          "package_name": "com.aworkconnect.urgento_customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698309544657-lf77ctn5v97qvmksi5qgbitcdqm2qqu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aworkconnect.urgento_customerapp",
+            "certificate_hash": "ea41e601c0a553dc25f71bd3cca6f98e53c0e72e"
+          }
+        },
+        {
+          "client_id": "698309544657-qie5i9b38oom60djqqapp98nldinmopb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aworkconnect.urgento_customerapp",
+            "certificate_hash": "abf91ffb5c934475e30352a0af59768e6fb4e310"
+          }
+        },
+        {
+          "client_id": "698309544657-suv6p86u3lrn263a1oo5ijeh3f20aan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK40_5eprlWiChJSqaodXy8BfBJom0DFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698309544657-e6ad1f62f8s0gnipb0n8c6hvl022pr0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698309544657-655714j8tk744ui0b5hi1mn2k3e6knoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aworkconnect.urgentocustomerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698309544657:android:cd891165ac96715d18d3f0",
+        "android_client_info": {
+          "package_name": "com.aworkconnect.urgento_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698309544657-qgmf3hmp3ke6ppdofefvp99rujd1qtnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aworkconnect.urgento_vendor",
+            "certificate_hash": "92318e83b539e6d7ce44f6dd7b42d139793ecae9"
+          }
+        },
+        {
+          "client_id": "698309544657-u5ihmeq7efe6sdmeep44stm7h1n3oirv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aworkconnect.urgento_vendor",
+            "certificate_hash": "f084fe02d2f09965cab8329bf560ef9770926124"
+          }
+        },
+        {
+          "client_id": "698309544657-suv6p86u3lrn263a1oo5ijeh3f20aan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK40_5eprlWiChJSqaodXy8BfBJom0DFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698309544657-e6ad1f62f8s0gnipb0n8c6hvl022pr0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698309544657-655714j8tk744ui0b5hi1mn2k3e6knoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aworkconnect.urgentocustomerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698309544657:android:070d731ce93aa0e918d3f0",
+        "android_client_info": {
+          "package_name": "com.aworkconnect.urgentomanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698309544657-suv6p86u3lrn263a1oo5ijeh3f20aan3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK40_5eprlWiChJSqaodXy8BfBJom0DFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698309544657-e6ad1f62f8s0gnipb0n8c6hvl022pr0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698309544657-655714j8tk744ui0b5hi1mn2k3e6knoq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aworkconnect.urgentocustomerapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

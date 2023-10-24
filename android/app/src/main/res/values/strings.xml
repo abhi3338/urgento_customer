@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_id" translatable="false">2021</string>
+    <string name="app_name">Urgento</string>
+    <string name="facebook_app_id">3266042950375716</string>
+    <string name="fb_login_protocol_scheme">fb3266042950375716</string>
+    <string name="facebook_client_token">0e524932094c35778dd50581436578e3</string>
+</resources>
